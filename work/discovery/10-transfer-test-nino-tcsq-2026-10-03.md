@@ -45,6 +45,28 @@
     differs_from: Like the Sun decimal hinge units
   open_questions:
     - Does each alternation point correspond to a measurable pressure transition?
+
+- id: CA-20261003-015
+  source:
+    - /home/shane/Projects/tcsq-quarry/tiles/G01_Gap.md
+    - /home/shane/Projects/tcsq-quarry/tiles/X01_False_Exit.md
+    - /home/shane/Documents/Like the Sun/Like the Sun, From a Distance.md
+  location: TCSQ gap/false-exit tiles; Like the Sun Appendix sections “Material que faltaba” and “Manuscript Insertions”
+  kind: skill-candidate
+  label: omission as route generator
+  status: extracted
+  description: Missing or withheld material can force a new reading route instead of merely reducing information.
+  evidence: TCSQ leaves the gap visible and routes to altered return; Like the Sun surfaces omitted material through an appendix and five insertions that change where the reader re-enters the manuscript.
+  relations:
+    - type: mutates-to
+      target: route-pressure concentration
+      basis: inferred
+  delta:
+    novelty: Extends the gap operator from interactive route movement to manuscript re-entry and structural supplementation.
+    differs_from: treating omission as simple incompleteness or editorial defect
+  open_questions:
+    - Does NINO’s anti-cluster policy use omission in the same route-generating way?
+    - What is the minimum visible trace required for an omission to remain functional rather than merely missing?
 ```
 
 ## Transfer verdict
