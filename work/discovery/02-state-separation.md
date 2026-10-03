@@ -46,3 +46,27 @@ The chapter material also contains a risk that must remain marked: it includes i
 ## Revision status
 
 The second-pass Drive document is verified as a separate large revision, but its full delta against the main document has not yet been extracted in bounded units. No authority decision is made between them.
+
+## Structural diff pass 2026-10-03
+
+The bounded scan produces a useful distinction without treating either revision as authoritative:
+
+| Measure | Main Drive version | Segunda pasada |
+|---|---:|---:|
+| Extracted characters | 222,512 | 215,221 |
+| Lines | 3,265 | 3,238 |
+| Visible chapter headings | 12-chapter macro plan plus developed chapters | 13-chapter working sequence |
+| `boundary` occurrences | 25 | 22 |
+| `distance` occurrences | 39 | 34 |
+| `memory` occurrences | 27 | 25 |
+| `erase` occurrences | 38 | 34 |
+| `integrate` occurrences | 9 | 7 |
+
+The second pass is not merely a copy with cosmetic edits. It shifts the chapter numbering and sequence:
+
+- Main version: Chapter 1–12, with “Like the Sun” at Chapter 7 in the recommended order.
+- Segunda pasada: Chapter 1–13, with “Like the Sun” at Chapter 8, and later chapters shifted.
+
+This suggests structural redistribution rather than a settled final order. The main version contains an explicit three-act macro architecture; the second pass presents a more linear chapter sequence and appears to redistribute the same mechanisms across an additional chapter.
+
+Current authority status: **UNRESOLVED REVISION**. The main version is the clearer architecture record; the second pass is a later or alternate sequencing record. Neither should overwrite the other until chapter-level comparison is complete.
