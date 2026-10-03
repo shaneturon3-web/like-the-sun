@@ -70,3 +70,23 @@ The second pass is not merely a copy with cosmetic edits. It shifts the chapter 
 This suggests structural redistribution rather than a settled final order. The main version contains an explicit three-act macro architecture; the second pass presents a more linear chapter sequence and appears to redistribute the same mechanisms across an additional chapter.
 
 Current authority status: **UNRESOLVED REVISION**. The main version is the clearer architecture record; the second pass is a later or alternate sequencing record. Neither should overwrite the other until chapter-level comparison is complete.
+
+## Volume superposition — provisional
+
+The project is not being treated as one undifferentiated book. Current working volume hypotheses are preserved in parallel:
+
+- **Vanilla** — baseline/primary surface;
+- **Infierno** — darker or more adversarial surface;
+- **Diez años de silencio** — silence, interval, and delayed-return surface.
+
+These are hypotheses, not final assignments. `Las sillas que no hacen sombra` and the related “silla de papá” material remain in the same object-family cluster, while their volume placement stays open.
+
+Resolution changes to use in the next passes:
+
+1. object-level: chair, shadow, table, mark, domestic use;
+2. scene-level: who sees, hides, admits, or refuses the object;
+3. chapter-level: which mechanism the scene carries;
+4. volume-level: which pressure regime the mechanism belongs to;
+5. transversal-level: what survives transfer across TOM, TCS, NINO, and Like the Sun.
+
+Do not collapse a repeated object into a repeated meaning. Preserve the object, function, scene pressure, and candidate volume as separate fields until the corpus supplies a decisive relation.
