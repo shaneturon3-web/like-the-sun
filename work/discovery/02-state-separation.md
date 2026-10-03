@@ -90,3 +90,28 @@ Resolution changes to use in the next passes:
 5. transversal-level: what survives transfer across TOM, TCS, NINO, and Like the Sun.
 
 Do not collapse a repeated object into a repeated meaning. Preserve the object, function, scene pressure, and candidate volume as separate fields until the corpus supplies a decisive relation.
+
+## Chair-family scan
+
+Drive confirms two distinct but closely related chair texts:
+
+- `Las sillas que no hacen sombra`: first-person domestic essay; chair as visual lightness, air, hiding place, and the difference between space and disappearance.
+- `Las sillas favoritas de mi papá`: inherited/family version; chair as migration cargo, paternal memory, bodily instruction, and a house where the child can occupy space without correction.
+
+They are therefore one object-family with two narrative vectors:
+
+`same chair → lived perception` and `same chair → inherited memory`.
+
+The family link is strong enough to keep them together. Volume assignment remains open.
+
+## Cross-resolution signal from “El invierno que no llega a primavera”
+
+The winter piece independently names a chair that does not make shadow and places it among other charged objects, including the child from the sea. This is evidence of recurrence at the transversal/object level, not proof that the chair belongs to one specific volume.
+
+Current superposed readings:
+
+- **Vanilla**: chair as usable domestic space and non-authoritarian design;
+- **Infierno**: chair as inherited survival geometry—hiding, correction, and the body made small;
+- **Diez años de silencio**: chair as memory cargo and delayed family transmission.
+
+These remain concurrent hypotheses. The recurrence is established; the assignment is not.
