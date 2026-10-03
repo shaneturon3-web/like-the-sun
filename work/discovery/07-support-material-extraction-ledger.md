@@ -124,4 +124,23 @@ Do not add a mechanism merely because a title sounds related. Read the source, a
   open_questions:
     - Where is the privacy/legal gate stored for v0.2 and v0.3, if it still exists elsewhere?
     - Must a public-facing assembly restore the v0.1 guardrail as a separate layer?
+
+- id: CA-20261003-010
+  source: /home/shane/Documents/Like the Sun/Como_el_sol_desde_la_distancia_Manuscrito_grande_v0.3.docx; /home/shane/Documents/Like the Sun/Auri Facebooks posts.md; /home/shane/Documents/Like the Sun/Aurora Facebook2019-20.txt
+  location: chapter 4, “Revisa mi blog” sequence
+  kind: operator
+  label: public artifact plus private key
+  status: extracted
+  description: A public text can carry a private intended addressee when a contemporaneous private message points that person to it. The artifact and the pointer must be read together.
+  evidence: The manuscript preserves “Revisa mi blog”, “Hay una sorpresa para ti”, and “Te escribí algo ahí” alongside the public “And the old way becomes the new way” material.
+  relations:
+    - type: supports
+      target: provenance-bearing reading
+      basis: inferred
+  delta:
+    novelty: Adds a two-channel provenance test to the corpus: visible publication plus private routing evidence.
+    differs_from: reading public text as self-contained evidence
+  open_questions:
+    - Which other public posts have a corresponding private routing message?
+    - Does the pairing survive independently in the raw Facebook and chat exports?
 ```
