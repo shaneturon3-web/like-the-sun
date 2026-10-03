@@ -3,6 +3,10 @@
 Date: 2026-10-03
 Status: PARTIAL DISCOVERY / SEPARATED SURFACES
 
+## Corpus scope
+
+`Vanilla`, `Infierno`, and `Diez años de silencio` are now treated as three books/volumes of one corpus. Their internal boundaries remain active, but recurring objects, scenes, mechanisms, voices, and transformations must be analyzed across the corpus before any volume-level conclusion is made.
+
 ## Confirmed surfaces
 
 - GitHub `shaneturon3-web/like-the-sun`: one Spanish editorial insertion file for Chapter 01.
@@ -26,4 +30,3 @@ Do not merge `pre-like-the-sun` into `like-the-sun` yet. The names and material 
 ## Next action
 
 Fetch the Drive title, Chapter 7, and the relevant index/structure records. Compare their function with the GitHub insertion and the pre-book chair piece before creating a shared taxonomy.
-

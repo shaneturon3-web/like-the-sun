@@ -71,15 +71,15 @@ This suggests structural redistribution rather than a settled final order. The m
 
 Current authority status: **UNRESOLVED REVISION**. The main version is the clearer architecture record; the second pass is a later or alternate sequencing record. Neither should overwrite the other until chapter-level comparison is complete.
 
-## Volume superposition — provisional
+## Corpus-wide volume superposition
 
-The project is not being treated as one undifferentiated book. Current working volume hypotheses are preserved in parallel:
+The project is treated as one corpus with three internally distinct books. Current working volume hypotheses are preserved in parallel:
 
 - **Vanilla** — baseline/primary surface;
 - **Infierno** — darker or more adversarial surface;
 - **Diez años de silencio** — silence, interval, and delayed-return surface.
 
-These are hypotheses, not final assignments. `Las sillas que no hacen sombra` and the related “silla de papá” material remain in the same object-family cluster, while their volume placement stays open.
+These are hypotheses, not final assignments. `Las sillas que no hacen sombra` and the related “silla de papá” material remain in the same object-family cluster, while their volume placement stays open. A mechanism may belong to the corpus before its strongest volume is known.
 
 Resolution changes to use in the next passes:
 
