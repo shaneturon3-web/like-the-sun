@@ -5,7 +5,7 @@ Status: PARTIAL DISCOVERY / SEPARATED SURFACES
 
 ## Corpus scope
 
-`Vanilla`, `Infierno`, and `Diez años de silencio` are now treated as three books/volumes of one corpus. Their internal boundaries remain active, but recurring objects, scenes, mechanisms, voices, and transformations must be analyzed across the corpus before any volume-level conclusion is made.
+The common corpus is now defined as three related books/surfaces: `like-the-sun`, `pre-like-the-sun`, and `El niño que vino del mar`. Their boundaries remain active, but recurring objects, scenes, mechanisms, voices, and transformations must be analyzed across all three before any conclusion is collapsed. `Vanilla`, `Infierno`, and `Diez años de silencio` remain internal volume hypotheses where the source supports them; they are not the corpus definition.
 
 ## Confirmed surfaces
 

@@ -71,9 +71,9 @@ This suggests structural redistribution rather than a settled final order. The m
 
 Current authority status: **UNRESOLVED REVISION**. The main version is the clearer architecture record; the second pass is a later or alternate sequencing record. Neither should overwrite the other until chapter-level comparison is complete.
 
-## Corpus-wide volume superposition
+## Corpus-wide superposition
 
-The project is treated as one corpus with three internally distinct books. Current working volume hypotheses are preserved in parallel:
+The corpus is treated as three related books/surfaces: `like-the-sun`, `pre-like-the-sun`, and `El niño que vino del mar`. Current internal volume hypotheses are preserved in parallel:
 
 - **Vanilla** — baseline/primary surface;
 - **Infierno** — darker or more adversarial surface;
