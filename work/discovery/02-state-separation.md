@@ -21,3 +21,28 @@
 - which Drive revision is authoritative;
 - whether the book is primarily memoir, essay, literary investigation, or a hybrid.
 
+## First corpus comparison
+
+The main Drive document proposes a 3-act / 12-chapter architecture:
+
+1. Break / closure, gratitude, guilt, panic, boundaries.
+2. Pattern / sabotage, commitment, fear, relationships, safety.
+3. Integration / memory, practical limits, and non-erasure.
+
+Chapter 7 is a developed instance of the governing mechanism. “Like the sun” does not mean reconciliation or continued access. It means that affection and memory may remain only at a distance that prevents renewed damage.
+
+Repeated mechanisms now verified in the fetched material:
+
+- **boundary without villainization**: a person can be sincere, caring, and still unsafe to remain close to;
+- **sequence as evidence**: the order of admissions, routes, delays, and reactions matters more than a single label;
+- **memory without re-entry**: preserving good memories does not authorize renewed contact;
+- **possibility versus probability**: an imaginable future is not an operationally safe future;
+- **contribution versus access**: help can remain meaningful after contact must end;
+- **distance as architecture**: separation is not only emotional; it is a safety structure;
+- **integration instead of erasure**: the past becomes usable when it stops governing the present.
+
+The chapter material also contains a risk that must remain marked: it includes intimate, potentially identifying interpersonal material. Future public-facing extraction requires composite protection and mechanism-first transformation, consistent with the repository's stated posture.
+
+## Revision status
+
+The second-pass Drive document is verified as a separate large revision, but its full delta against the main document has not yet been extracted in bounded units. No authority decision is made between them.
