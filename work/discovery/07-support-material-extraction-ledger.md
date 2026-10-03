@@ -143,4 +143,20 @@ Do not add a mechanism merely because a title sounds related. Read the source, a
   open_questions:
     - Which other public posts have a corresponding private routing message?
     - Does the pairing survive independently in the raw Facebook and chat exports?
+
+- id: CA-20261003-011
+  source: /home/shane/Documents/Like the Sun/Como_el_sol_desde_la_distancia_Manuscrito_grande_v0.3.docx
+  location: chapters 10.25, 10.5, 14.1, 14.2, and 14.3
+  kind: operator
+  label: fractional chapter as pressure hinge
+  status: extracted
+  description: Fractional chapters isolate state transitions that would be flattened by ordinary chapter numbering.
+  evidence: 10.25 holds the contradiction between a closed door and renewed contact; 10.5 records a pause that becomes travel planning; 14.1 separates a complete export from an omitted/deleted conversation; 14.2 preserves two endings in one day; 14.3 isolates a logistical list after rupture.
+  relations: []
+  delta:
+    novelty: The decimal numbering is a structural control for preserving micro-transitions and contradictory states.
+    differs_from: treating fractional chapters as unfinished numbering or appendices
+  open_questions:
+    - Is fractional placement a general TOM/Like-the-Sun technique for hinge scenes?
+    - Which transitions disappear if these units are renumbered into ordinary chapters?
 ```
