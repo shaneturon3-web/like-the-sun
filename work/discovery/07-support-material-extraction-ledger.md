@@ -89,4 +89,39 @@ Do not add a mechanism merely because a title sounds related. Read the source, a
   open_questions:
     - When and why was the Pacific origin rejected?
     - Which motifs survive after the romanticized frame is removed?
+
+- id: CA-20261003-008
+  source: /home/shane/Documents/Like the Sun/Como_el_sol_desde_la_distancia_Manuscrito_v0.2.docx; /home/shane/Documents/Like the Sun/Como_el_sol_desde_la_distancia_Manuscrito_grande_v0.3.docx
+  location: headers and chapters 1-7
+  kind: operator
+  label: explanation becomes embodied scene
+  status: observed
+  description: v0.3 does not simply shorten v0.2. It adds sensory openings, domestic actions, spatial metaphors, and dialogue fragments, converting editorial explanation into dramatized narrative.
+  evidence: v0.2 explains the ice-cream image and the documentary problem; v0.3 opens with the melting ice cream, sleeping body, water, medicine, travel, children, and logistics as scenes. v0.3 is materially longer in the compared opening range.
+  relations:
+    - type: mutates-to
+      target: Like the Sun version family
+      basis: direct
+  delta:
+    novelty: Establishes a transformation from analytic scaffolding to embodied literary vehicle.
+    differs_from: prior hypothesis that v0.3 is a compressed version
+  open_questions:
+    - Does the same analytic-to-embodied transformation continue through the whole manuscript?
+    - Which explanations were intentionally retained, removed, or redistributed?
+
+- id: CA-20261003-009
+  source: /home/shane/Documents/Like the Sun/Como_el_sol_desde_la_distancia_Manuscrito_v0.1.docx; v0.2.docx; grande_v0.3.docx
+  location: front matter
+  kind: contradiction
+  label: privacy and evidentiary guardrails recede as literary embodiment increases
+  status: observed
+  description: v0.1 explicitly marks the work as private and requires factual, privacy, legal, and minor-protection review. v0.2 retains the documentary title but omits that visible note; v0.3 opens directly in literary scene and also omits it.
+  evidence: v0.1 working-note paragraph versus v0.2/v0.3 opening pages.
+  relations: []
+  delta:
+    novelty: Identifies a governance tradeoff attached to the version transformation.
+    differs_from: treating increased literary embodiment as purely formal improvement
+  open_questions:
+    - Where is the privacy/legal gate stored for v0.2 and v0.3, if it still exists elsewhere?
+    - Must a public-facing assembly restore the v0.1 guardrail as a separate layer?
 ```
